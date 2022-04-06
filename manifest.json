@@ -1,12 +1,12 @@
 {
-    "name": "PWA",
-    "short_name": "PWA",
-    "start_url": "https://nfinity7.github.io/PWA/",
+    "name": "zadanie_psm2",
+    "short_name": "zadanie_psm2",
+    "start_url": "https://209097.github.io/zadanie_psm2/",
     "display": "standalone",
     "background_color": "#fdfdfd",
     "theme_color": "#db4938",
     "orientation": "portrait-primary",
-    "scope": "https://nfinity7.github.io/PWA/",
+    "scope": "https://209097.github.io/zadanie_psm2/",
     "id": "/index.html",
     "icons": [
         {
